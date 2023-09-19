@@ -1,0 +1,354 @@
+[
+  {
+    "id": "1393c802-2f9c-4607-b402-fb22be8a405c",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "a dog",
+    "meaning": "một con chó",
+    "index": 8,
+    "grammarTips": "Mạo từ \"a\" (có nghĩa là: một) đứng trước danh từ đếm được số ít khi danh từ này được bắt đầu bằng phụ âm.",
+    "answers": [
+      {
+        "id": "0e5a6d07-ea07-4d95-9fd4-c0ba7aaaa09c",
+        "questionId": "1393c802-2f9c-4607-b402-fb22be8a405c",
+        "correct": false,
+        "content": "the",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "78c4c977-0f65-417e-90a9-bcf1d548ded1",
+        "questionId": "1393c802-2f9c-4607-b402-fb22be8a405c",
+        "correct": false,
+        "content": "an",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "c0b7571c-6e82-47e9-a886-ed35f21b26b0",
+        "questionId": "1393c802-2f9c-4607-b402-fb22be8a405c",
+        "correct": true,
+        "content": "a",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "efa47305-ef66-4f8f-82e4-aa4939d45f81",
+        "questionId": "1393c802-2f9c-4607-b402-fb22be8a405c",
+        "correct": false,
+        "content": "this",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "4d98895e-4261-41ac-b3c4-764929b5d337",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "There is an owl on the tree.",
+    "meaning": "Có một con cú mèo ở trên cây.",
+    "index": 10,
+    "grammarTips": "Mạo từ \"an\" (có nghĩa là: một) đứng trước danh từ đếm được số ít khi danh từ này bắt đầu bằng nguyên âm (u,e,o,a,i).",
+    "answers": [
+      {
+        "id": "4d6080c9-932d-4701-a956-d7e8155118fe",
+        "questionId": "4d98895e-4261-41ac-b3c4-764929b5d337",
+        "correct": true,
+        "content": "an",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "52a797e6-6115-4818-baf6-7913d0dbde05",
+        "questionId": "4d98895e-4261-41ac-b3c4-764929b5d337",
+        "correct": false,
+        "content": "this",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "7514305f-aee7-4452-b5bd-1d00d18738a3",
+        "questionId": "4d98895e-4261-41ac-b3c4-764929b5d337",
+        "correct": false,
+        "content": "the",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "c107ada8-94d9-415c-8d81-7643d6757e30",
+        "questionId": "4d98895e-4261-41ac-b3c4-764929b5d337",
+        "correct": false,
+        "content": "a",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "c36cb41e-2c6c-4311-b663-d902f3d32dab",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "He has an owl.",
+    "meaning": "Anh ấy có một con cú mèo.",
+    "index": 22,
+    "grammarTips": "Trong thì Hiện tại đơn, động từ \"have\" chia thành \"has\" khi dùng với các Đại từ nhân xưng She/He/It.",
+    "answers": [
+      {
+        "id": "2b6e2569-3727-4cae-9565-c05d2962bb90",
+        "questionId": "c36cb41e-2c6c-4311-b663-d902f3d32dab",
+        "correct": false,
+        "content": "haves",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "30782354-3d54-47a9-bc14-5ad81d6bc831",
+        "questionId": "c36cb41e-2c6c-4311-b663-d902f3d32dab",
+        "correct": false,
+        "content": "have",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "759b5f1e-5520-4249-888a-816f62f8eefa",
+        "questionId": "c36cb41e-2c6c-4311-b663-d902f3d32dab",
+        "correct": true,
+        "content": "has",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "f7d1eff6-27d7-4084-b601-1c38f93dca21",
+        "questionId": "c36cb41e-2c6c-4311-b663-d902f3d32dab",
+        "correct": false,
+        "content": "having",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "0909cf46-9dbf-48a9-9de3-5f4c99b149f7",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "I have a cat and a dog.",
+    "meaning": "Tôi có một con mèo và một con chó.",
+    "index": 25,
+    "grammarTips": "Trong thì Hiện tại đơn, động từ \"have\" giữ nguyên khi dùng với các Đại từ nhân xưng I/We/You/They.",
+    "answers": [
+      {
+        "id": "0f384b6d-880c-4595-86db-5e0a072dd196",
+        "questionId": "0909cf46-9dbf-48a9-9de3-5f4c99b149f7",
+        "correct": false,
+        "content": "haves",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "3d37c807-8fae-46de-9200-26c508626be6",
+        "questionId": "0909cf46-9dbf-48a9-9de3-5f4c99b149f7",
+        "correct": false,
+        "content": "having",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "7d60ce86-53ba-4c34-a5e1-fbdd46c3b0c0",
+        "questionId": "0909cf46-9dbf-48a9-9de3-5f4c99b149f7",
+        "correct": false,
+        "content": "has",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "b1f9d50f-f077-47b0-a966-bd410bc733e1",
+        "questionId": "0909cf46-9dbf-48a9-9de3-5f4c99b149f7",
+        "correct": true,
+        "content": "have",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "82a45b34-706a-457a-9954-3e460f457c99",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "It's an ant.",
+    "meaning": "Nó là một con kiến.",
+    "index": 33,
+    "grammarTips": null,
+    "answers": [
+      {
+        "id": "06848848-4708-460a-8f7a-ee99cf9b5808",
+        "questionId": "82a45b34-706a-457a-9954-3e460f457c99",
+        "correct": false,
+        "content": "that",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "1b92112c-55fb-406a-86ea-2135406ed1ac",
+        "questionId": "82a45b34-706a-457a-9954-3e460f457c99",
+        "correct": false,
+        "content": "a",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "7921f386-7f4a-43b5-8e4c-2abf7564320f",
+        "questionId": "82a45b34-706a-457a-9954-3e460f457c99",
+        "correct": true,
+        "content": "an",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "e552e58c-7857-4fd1-8565-b64c0e3a6189",
+        "questionId": "82a45b34-706a-457a-9954-3e460f457c99",
+        "correct": false,
+        "content": "this",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "61d07e09-2c7e-40cc-9d6f-e793adafd57e",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "She has a dog and a duck.",
+    "meaning": "Cô ấy có một con chó và một con vịt.",
+    "index": 35,
+    "grammarTips": null,
+    "answers": [
+      {
+        "id": "041d6849-6930-45d9-b107-0eb7cbb0e890",
+        "questionId": "61d07e09-2c7e-40cc-9d6f-e793adafd57e",
+        "correct": true,
+        "content": "has",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "0b5af952-6044-442e-a41c-7a91e0f11099",
+        "questionId": "61d07e09-2c7e-40cc-9d6f-e793adafd57e",
+        "correct": false,
+        "content": "haves",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "b660453b-2f56-42be-8416-0a85817fd59b",
+        "questionId": "61d07e09-2c7e-40cc-9d6f-e793adafd57e",
+        "correct": false,
+        "content": "have",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "db0fd033-b9b0-42ad-a5e6-cebb4509a272",
+        "questionId": "61d07e09-2c7e-40cc-9d6f-e793adafd57e",
+        "correct": false,
+        "content": "having",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "5fa2da8d-2929-4580-bc9b-eec4db209a08",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "There is an ostrich in the zoo.",
+    "meaning": "Có một con đà điểu trong sở thú.",
+    "index": 37,
+    "grammarTips": null,
+    "answers": [
+      {
+        "id": "1ca669fb-6634-42ff-825d-045431d0ce7e",
+        "questionId": "5fa2da8d-2929-4580-bc9b-eec4db209a08",
+        "correct": true,
+        "content": "an",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "7f68bb1b-507e-4145-8c54-e3011293a878",
+        "questionId": "5fa2da8d-2929-4580-bc9b-eec4db209a08",
+        "correct": false,
+        "content": "that",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "9361848c-12e2-4680-af6b-ba1fe739fc52",
+        "questionId": "5fa2da8d-2929-4580-bc9b-eec4db209a08",
+        "correct": false,
+        "content": "this",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "d7bf913e-c447-4ea5-8e35-b599998e3563",
+        "questionId": "5fa2da8d-2929-4580-bc9b-eec4db209a08",
+        "correct": false,
+        "content": "a",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  },
+  {
+    "id": "9b6ea5a3-467f-4733-a560-c2d175253f50",
+    "topicId": "ade62b2c-106c-46eb-8d37-b1e5eb218152",
+    "type": 2,
+    "level": 1,
+    "content": "She has a parrot.",
+    "meaning": "Cô ấy có một con vẹt.",
+    "index": 39,
+    "grammarTips": null,
+    "answers": [
+      {
+        "id": "825d78f3-0d4f-4218-b033-e345a9c99406",
+        "questionId": "9b6ea5a3-467f-4733-a560-c2d175253f50",
+        "correct": false,
+        "content": "having",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "94feccfe-8874-46ec-96b7-d5ecd9e6e6fa",
+        "questionId": "9b6ea5a3-467f-4733-a560-c2d175253f50",
+        "correct": false,
+        "content": "haves",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "a4fe2c56-8852-49eb-93ca-aa484291289d",
+        "questionId": "9b6ea5a3-467f-4733-a560-c2d175253f50",
+        "correct": false,
+        "content": "have",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      },
+      {
+        "id": "a8656b80-ec42-42e7-b897-3475178d1a52",
+        "questionId": "9b6ea5a3-467f-4733-a560-c2d175253f50",
+        "correct": true,
+        "content": "has",
+        "thumbnailUrl": null,
+        "audioUrl": null
+      }
+    ]
+  }
+]
